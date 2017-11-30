@@ -1,0 +1,9 @@
+F:\New folder\QLHH\QuanLyHangPhuot\DTO\bin\Debug\DTO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\DTO\bin\Debug\DTO.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\New folder\QLHH\QuanLyHangPhuot\DTO\obj\Debug\DTO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\DTO\obj\Debug\DTO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DTO\bin\Debug\DTO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DTO\bin\Debug\DTO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DTO\obj\Debug\DTO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,18 @@
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\BUS.dll
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\BUS.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DAO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DAO.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.dll
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DTO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DTO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\BUS.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\BUS.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DAO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DTO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DAO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\bin\Debug\DTO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\BUS\obj\Debug\BUS.pdb

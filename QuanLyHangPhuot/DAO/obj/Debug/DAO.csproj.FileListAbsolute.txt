@@ -1,0 +1,14 @@
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DAO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DAO.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DTO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DTO.pdb
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.dll
+F:\New folder\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DAO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DAO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DTO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\bin\Debug\DTO.pdb
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.dll
+F:\DoAn_LapTrinhC#\QLHH\QuanLyHangPhuot\DAO\obj\Debug\DAO.pdb
